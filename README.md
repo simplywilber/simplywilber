@@ -9,7 +9,7 @@
 
 Gmail 📬 simplywilber@gmail.com
 
-Portfolio 🐧 https://www.instagram.com/simplywilber
+Portfolio 🐧 COMING VERY SOON! :)
 
 Linkedin 👨🏻‍💼 https://www.linkedin.com/in/wilber-amaya-maurisio/
 
