@@ -7,9 +7,9 @@
 <p>Feel free to connect with me at anytime, and yes, I would love to collaborate</p>
 <img src="https://media.giphy.com/media/Ha9WFnvDpK29kkM3hf/giphy.gif" width="120" height="120" alt="also me"/>
 
-Gmail 📬 simplywilber@gmail.com
-
 Portfolio 🐧 https://www.Simplywilber.com
+
+Gmail 📬 simplywilber@gmail.com
 
 Linkedin 👨🏻‍💼 https://www.linkedin.com/in/wilber-amaya-maurisio/
 
