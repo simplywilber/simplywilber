@@ -27,7 +27,7 @@ Currently I enjoy working with React/Next.js/SvelteKit, TailwindCSS, Node.js, Po
 
 ### NETACAD 
 
-Python <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30" height="30" alt="python logo"/>
+Python  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30" height="30" alt="python logo"/>
 
-Linux <img src="https://media.giphy.com/media/8zEdvRZb50AB67ANBa/giphy.gif" width="30" height="30" alt="Linux Pinguino"/>
+Linux  <img src="https://media.giphy.com/media/8zEdvRZb50AB67ANBa/giphy.gif" width="30" height="30" alt="Linux Pinguino"/>
 
