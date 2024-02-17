@@ -31,5 +31,4 @@ Python  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" wi
 
 Linux  <img src="https://media.giphy.com/media/8zEdvRZb50AB67ANBa/giphy.gif" width="30" height="30" alt="Linux Pinguino"/>
 
-Cisco Packet Tracer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhNWJhN2czYm04MjRudWFyZ3JuNmN1cnI3MXN2M3FxM3hhNHh1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EPe8xaNx2no5DnKGoE/giphy.gif" width="30" height="30" alt="Cisco award medal"/>
 
