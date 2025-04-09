@@ -1,6 +1,6 @@
 # Hi I'm Wilber 🐧
 
-## A veteran turned Software Developer
+## A veteran turned into a developer
 
 <p>Join me as I set on a path to learn new and innovative technologies available today <img src="https://media.giphy.com/media/BE3jH8c21mdKzYhQQS/giphy.gif" width="60" height="60" alt="me"/></p>
 
@@ -25,10 +25,8 @@ Currently I enjoy working with React/Next.js/SvelteKit, TailwindCSS, Node.js, Po
 
 ## What I'm currently learning 🥝
 
-### NETACAD 
+### BC 
 
-Python  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30" height="30" alt="python logo"/>
-
-Linux  <img src="https://media.giphy.com/media/8zEdvRZb50AB67ANBa/giphy.gif" width="30" height="30" alt="Linux Pinguino"/>
+HTML/CSS/JS Review  <img src="https://media.giphy.com/media/8zEdvRZb50AB67ANBa/giphy.gif" width="30" height="30" alt="Linux Pinguino"/>
 
 
