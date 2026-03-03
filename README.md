@@ -2,9 +2,7 @@
 
 ## A veteran turned into a developer
 
-<p>Join me as I set on a path to learn new and innovative technologies available today <img src="https://media.giphy.com/media/BE3jH8c21mdKzYhQQS/giphy.gif" width="60" height="60" alt="me"/></p>
-
-<p>Feel free to connect with me at anytime, and yes, I would love to collaborate</p>
+<p>Feel free to connect with me at anytime, and yes, I would love to collaborate</p> <img src="https://media.giphy.com/media/BE3jH8c21mdKzYhQQS/giphy.gif" width="60" height="60" alt="me"/></p>
 <img src="https://media.giphy.com/media/Ha9WFnvDpK29kkM3hf/giphy.gif" width="120" height="120" alt="also me"/>
 
 Portfolio 🐧 https://www.Simplywilber.com
@@ -21,14 +19,14 @@ Tik-Tok 📱 https://www.tiktok.com/simplywilber
 
 ## Favorite Tech  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="30" height="30" alt="me while coding"/>
 
-Currently I enjoy working with React/Next.js/SvelteKit, TailwindCSS, Node.js, PostgreSQL, Sanity and Firebase
+Currently I enjoy working with React/Next.js/Node.js, TailwindCSS, Firebase and PostgreSQL.
 
-## What I'm currently learning 🥝
+## What I'm currently learning/creating 🥝
 
-### Bellevue College
+Droplet https://github.com/simplywilber/Droplet
 
-HTML/CSS/JS Review  <img src="https://media.giphy.com/media/8zEdvRZb50AB67ANBa/giphy.gif" width="30" height="30" alt="Linux Pinguino"/>
+### Bellevue College (AAS-DTA Software Development)
+Client Side Web Dev <img src="https://media.giphy.com/media/8zEdvRZb50AB67ANBa/giphy.gif" width="30" height="30" alt="Linux Pinguino"/>
 
-C#
 
 
