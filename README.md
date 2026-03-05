@@ -1,6 +1,6 @@
 # Hi I'm Wilber 🐧
 
-## A veteran turned into a developer
+## A veteran turned developer
 
 <p>Feel free to connect with me at anytime, and yes, I would love to collaborate</p> <img src="https://media.giphy.com/media/BE3jH8c21mdKzYhQQS/giphy.gif" width="60" height="60" alt="me"/></p>
 <img src="https://media.giphy.com/media/Ha9WFnvDpK29kkM3hf/giphy.gif" width="120" height="120" alt="also me"/>
